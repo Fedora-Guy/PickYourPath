@@ -3,6 +3,7 @@ public class Main {
 	
 
 		Story.start();
+		Story.start();
 	}
 }
 
